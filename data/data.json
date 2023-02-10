@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name": "Jerry Brock",
+        "dateOfBirth": {
+            "$date": "1991-07-27"
+        },
+        "city": "Los Angeles",
+        "address": "218 Roosevelt Street",
+        "email": "giwova5446@gmail.com",
+        "phone": 6154279556,
+        "dateJoined": {
+            "$date": "2014-08-30"
+        },
+        "company": "Supermarketable LTD.",
+        "companyCity": "Santa Ana",
+        "companyAddress": "2467 Little Street",
+        "companyPhone": 3305696349,
+        "companyEmail": "super@marketable.com",
+        "position": "CEO",
+        "positionDesc": "Top position in an organization and responsible for implementing existing plans and policies, improving the company's financial strength, supporting ongoing digital business transformation and setting future strategy.",
+        "certificates": [
+            {
+                "certificate": "Certified Manager Certification (CM)",
+                "certificateDesc": "Completing the Certified Supervisor Professional Certificate helps to prepare you for ICPM's Certified Supervisor Certification examination. CS certification is designed from the ground up to assess your skills in multiple key areas and prove to others that you have what it takes to be a supervisor."
+            },
+            {
+                "certificate": "Certified Management Accountant (CMA)",
+                "certificateDesc": "CMAs are experts at explaining the 'why' behind the numbers, not just the 'what'. Earning the CMA elevates your credibility and gives you a competitive edge in your career."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bob John",
+        "dateOfBirth": {
+            "$date": "1989-04-02"
+        },
+        "city": "Ohio",
+        "address": "1735 Big Elm",
+        "email": "bobobobo@gmail.com",
+        "phone": 8167963743,
+        "dateJoined": {
+            "$date": "2016-02-18"
+        },
+        "company": "Total IT",
+        "companyCity": "Orlando",
+        "companyAddress": "1883 Barnes Street",
+        "companyPhone": 4072720956,
+        "companyEmail": "totalit@mail.com",
+        "position": "Senior Software Developer",
+        "positionDesc": "Responsible for designing, testing, and implementing new and updated software programs.",
+        "certificates": [
+            {
+                "certificate": "Certified Scrum Master (CSM)",
+                "certificateDesc": "A scrum master is the scrum team member tasked with fostering an effective and productive working environment and guiding others to understand scrum values, principles and practices."
+            },
+            {
+                "certificate": "Software Engineering Master Certification (SEMC)",
+                "certificateDesc": "IEEE credentials guarantee that your education program offers some of the most relevant content that engineers need to stay ahead in their fields."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Maxim Guzman",
+        "dateOfBirth": {
+            "$date": "2000-10-20"
+        },
+        "city": "Atlanta",
+        "address": "3599 College Street",
+        "email": "maxguz46@gmail.com",
+        "phone": 4043899105,
+        "dateJoined": {
+            "$date": "2022-06-18"
+        },
+        "company": "RedWire",
+        "companyCity": "Wood Dale",
+        "companyAddress": "4968 Cherry Camp Road",
+        "companyPhone": 7734539918,
+        "companyEmail": "red@wire.com",
+        "position": "Junior Software Developer",
+        "positionDesc": "Report directly to the development manager and assist with all functions of software coding and design.",
+        "certificates": [
+            {
+                "certificate": "Certified Web Professional - Web Developer",
+                "certificateDesc": "CWP Web Developers create and maintain Web applications through programming, scripting and/or server administration."
+            }
+        ]
+    }
+]
