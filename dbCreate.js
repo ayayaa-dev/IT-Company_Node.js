@@ -6,10 +6,6 @@ let Position = require('./models/position');
 let Worker = require('./models/worker');
 let WorkerCertificate = require('./models/workerCertificate');
 
-//Create connection between Worker and Certificate
-// Worker.belongsToMany(Certificate, { through: WorkerCertificate })
-// Certificate.belongsToMany(Worker, { through: WorkerCertificate })
-
 //Create connection between Worker and Company 
 Worker.hasOne(Company, { foreignKey: 'company_id', sourceKey: 'companyID' });
 
